@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Test</title>
+        <link rel="stylesheet" href="CSS.css">
+    </head>
+
+    <body>
+        <div id="arriba">
+            <ul>
+                <li>Home</li>
+                <li>Help</li>
+            </ul>
+        </div>
+
+        <h1>Consige Un Empleo</h1>
+
+        <hr>
+
+        <h2>¿Quieres consegir un empleo?</h2>
+
+        <img id="img_empleo" src="https://tse4.mm.bing.net/th?id=OIP.WtpqSuHny0eLmME_jwjsfwHaHa&pid=Api&P=0" alt="Empleo">
+        
+        <hr>
+
+        <div>
+            <h3>¿Quieres Ser Ingeniero?</h3>
+            <a href="file:///C:/Users/HP/Documents/Pagina%20web%20con%20css/Test%20de%20pagina%20web/Paginas%20secundarias/Pagina_Ingeniero/Pagina%20Ingeniero.html"><p class="Empleo">Haz click aqui</p></a>
+
+            <h3>¿Quieres Ser Obrero?</h3>
+            
+            <a href="file:///C:/Users/HP/Documents/Pagina%20web%20con%20css/Test%20de%20pagina%20web/Paginas%20secundarias/Pagina_obrero/Pagina%20Obrero.html"><p class="Empleo">Haz click aqui</p></a>
+
+
+        </div>
+
+
+    </body>
+</html>
